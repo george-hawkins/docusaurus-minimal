@@ -50,6 +50,7 @@ const siteConfig = {
   scripts: ['https://buttons.github.io/buttons.js'],
 
   // On page navigation for the current documentation page.
+  // Comment out onPageNav to remove the right-hand sidebar that includes the section heading within the current page.
   onPageNav: 'separate',
   // No .html extensions for paths.
   cleanUrl: true,
